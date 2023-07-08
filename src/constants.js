@@ -1,0 +1,88 @@
+export const HEADER_STUFF = {
+  myInfo:
+    "  I am a passionate frontend developer based in New Jersey, US. Specializing in",
+  myInfo_specialty: "React JS and Javascript",
+  myInfo2:
+    ", I bring ideas to life through clean and intuitive user interfaces. Welcome to my portfolio site!",
+  button_text: "See my projects",
+};
+
+export const SOCIAL_STUFF = {
+  social: "Social",
+  linkedIn_icon: "/img/linkedin-ico.png",
+  GitHub_icon: "/img/github-ico.png",
+  Behance_icon: "/img/behance.png",
+  linkedIn_link:
+    "https://www.linkedin.com/in/ylexis-butler-67480b14a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOEvvOqVVQleCU87ERXRuSQ%3D%3D",
+  Github_link: "https://github.com/YlexisB",
+  Behance_link: "https://www.behance.net/ylexisbutler1",
+};
+
+export const ABOUT_STUFF = {
+  about: "About",
+  about_me1:
+    " Hey there! I'm Lex, a passionate web developer with a diverse background that includes athletics and filmmaking. My athletic experiences have shaped me into someone with a strong work ethic, discipline, and a great appreciation for teamwork. I thrive on challenges and I'm always seeking opportunities for growth.",
+  about_me2:
+    " Aside from my athletic pursuits, I also ventured into the world of entertainment technology during my high school years. I spent four years studying it, which eventually led me to pursue a degree in filmmaking and graphic design at university. It was during this time that I sharpened my creative skills and  storytelling abilities. However, after graduating it was was web development that really caught my attention. I love how it combines creativity and technicality, allowing me to leverage my artistic sensibilities along with the problem-solving skills I gained from athletics.",
+  about_me3:
+    " I specialize in JavaScript and React JS, which gives me a solid foundation for building dynamic and interactive web applications. I thoroughly enjoy working with these technologies as they enable me to bring ideas to life and create seamless user experiences. It's a perfect blend of my artistic side and my knack for problem-solving.Im currently also learning AWS.",
+  about_me4:
+    "I have a background in film production and graphic design, and earned a bachelors degree in Film and Television from Rider University. When I'm not coding, you can find me exploring various avenues of self-improvement, staying active with workouts, embracing the outdoors and/or experimenting with new recipes in the kitchen.",
+  about_me5: "Get to know me!",
+  mySkills: "My Skills",
+  skill_html: "HTML",
+  skill_css: "CSS",
+  skill_js: "JavaScript",
+  skill_jq: "JQuery",
+  skill_react: "React",
+  skill_re: "Redux",
+  skill_bs: "Bootstrap",
+  skill_git: "Git",
+  skill_f: "Figma",
+  skill_sass: "SASS",
+};
+
+export const CONTACT_STUFF = {
+  contact: "Contact",
+  contact1:
+    "All my projects include links to the code and live version. Click the button to learn more about each one.",
+  contact2: "open position,",
+  contact3:
+    "or if you have any questions or opportunities for collaboration, please feel free to reach out to me at ylexislauren@gmail.com !",
+};
+
+export const MY_PROJECTS_STUFF = {
+  project: "Projects",
+  projectDescription:
+    "All my projects include links to the code and live version. Click the button to learn more about each one.",
+  project1_title: "Snap Still",
+  project1:
+    "Snap Still is a site, providing filmmakers and creatives alike with a platform to create visually stunning mood boards during the planning phases of their projects. Explore, organize, and bring your creative vision to life all in one place.",
+  project2_title: "The Commons",
+  project2:
+    "The Commons, is a platform that invites users to delve into the lives of lesser-known historical figures. Users can immerse themselves in stories through engaging audio narratives, allowing the individuals of the past to personally share their experiences, and users to gain a better undestanding of history.",
+  learn: "Learn more",
+  project1Pic: "./img/Snapstill.png",
+  project2Pic: "./img/the_commons2.png",
+};
+
+export const NAV_STUFF = {
+  home: "Home",
+  name: "Ylexis Butler",
+};
+
+export const FOOTER_STUFF = {
+  thankYou:
+    "I appreciate your time and interest in exploring my work. Have a wonderful day!",
+  hearts: "/img/hearts.gif",
+};
+
+export const PROJECTPAGE_STUFF = {
+  live_link: "Live Link",
+  code_link: "Code Link",
+  project_intro: "Project Overview",
+  inspiration: "What inspired me?",
+  design: "What was the design process?",
+  learn: "What did I learn?",
+  tools: "Tools Used",
+};
