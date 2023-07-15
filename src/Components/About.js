@@ -54,6 +54,7 @@ const About = () => {
                 <div className="skills-skill">{ABOUT_STUFF.skill_git}</div>
                 <div className="skills-skill">{ABOUT_STUFF.skill_f}</div>
                 <div className="skills-skill">{ABOUT_STUFF.skill_sass}</div>
+                <div className="skills-skill">{ABOUT_STUFF.skill_cl}</div>
               </div>
             </div>
           </div>

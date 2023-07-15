@@ -6,8 +6,8 @@
         {
           "name": "Snap Still",
           "short-description": "Snap Still is a film moodboard site, providing filmmakers and creatives with a platform to create visually stunning moodboards during the planning phases of their projects. Explore, organize, and bring your creative vision to life all in one place.",
-          "live-link": "",
-          "code-link": "",
+          "live-link": "https://ylexisb.github.io/moodboard/#/",
+          "code-link": "https://github.com/YlexisB/moodboard",
           "image": "/img/SnapStill.png",
           "the-build": "Snap Still is the first React website I have ever built. This website was built using HTML,CSS, and React JS via CRA npm. The images are fetched from the Pexels API, and the mood board thumbnails are fetched from the Giphy API. I used localStorage to save the Pexel Api data to a mood board, in order for it to be accessed in each board's mood board page. The site features six initial categories of common emotions shown in film, and displays images in relation to each of those categories. Users are also given the opportunity to utilize the search engine, located at the top-right corner of each page.",
           "the-inspiration1": "The inspiration behind Snap Still is deeply rooted in my filmmaking background. As any filmmaker knows, the planning phase is absolutely crucial for successfully bringing a project to life, and that's where our trusty mood boards come to the rescue. 🎬🎥 A mood board is a collage of visual elements, carefully curated to evoke a specific mood, style, or concept. It lets you see the big picture and grasp the overall feel you want to convey in your project, and it’s a powerful tool that bridges the gap between imagination and reality.",

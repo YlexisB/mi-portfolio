@@ -40,6 +40,7 @@ export const ABOUT_STUFF = {
   skill_git: "Git",
   skill_f: "Figma",
   skill_sass: "SASS",
+  skill_cl: "command line",
 };
 
 export const CONTACT_STUFF = {
