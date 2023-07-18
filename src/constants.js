@@ -66,14 +66,14 @@ export const MY_PROJECTS_STUFF = {
   project2:
     "The Commons, is a platform that invites users to delve into the lives of lesser-known historical figures. Users can immerse themselves in stories through engaging audio narratives, allowing the individuals of the past to personally share their experiences, and users to gain a better undestanding of history.",
   learn: "Learn more",
-  project1Pic: "../img/Snapstill.png",
+  project1Pic: "./img/snapstill.png",
   project2Pic: "./img/the_commons2.png",
 };
 
 export const NAV_STUFF = {
   home: "Home",
   name: "Ylexis Butler",
-  logo: "../img/smiley.png",
+  logo: "./img/smiley.png",
 };
 
 export const FOOTER_STUFF = {
