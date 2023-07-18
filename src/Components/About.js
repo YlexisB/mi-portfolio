@@ -29,12 +29,12 @@ const About = () => {
                   {ABOUT_STUFF.about_me4}
                 </p>
               </div>
-              <a
+              <button
                 href={ABOUT_STUFF.mail}
-                className="btn btn--med btn--theme dynamicBgClr"
+                className=" btn btn--med btn--theme dynamicBgClr"
               >
                 {CONTACT_STUFF.contact}
-              </a>
+              </button>
             </div>
             <div className="about__content-skills">
               <img
