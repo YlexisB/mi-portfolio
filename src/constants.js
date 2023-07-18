@@ -5,13 +5,14 @@ export const HEADER_STUFF = {
   myInfo2:
     ", I bring ideas to life through clean and intuitive user interfaces. Welcome to my portfolio site!",
   button_text: "See my projects",
+  arrow: "./img/arrow.png",
 };
 
 export const SOCIAL_STUFF = {
   social: "Social",
-  linkedIn_icon: "/img/linkedin-ico.png",
-  GitHub_icon: "/img/github-ico.png",
-  Behance_icon: "/img/behance.png",
+  linkedIn_icon: "./img/linkedin-ico.png",
+  GitHub_icon: "./img/github-ico.png",
+  Behance_icon: "./img/behance.png",
   linkedIn_link:
     "https://www.linkedin.com/in/ylexis-butler-67480b14a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOEvvOqVVQleCU87ERXRuSQ%3D%3D",
   Github_link: "https://github.com/YlexisB",
@@ -41,6 +42,9 @@ export const ABOUT_STUFF = {
   skill_f: "Figma",
   skill_sass: "SASS",
   skill_cl: "command line",
+  logo: "./img/smiley-logo-2.png",
+  mail: "mailto:ylexislauren@gmail.com",
+  scribble: "./img/scribble-circle2.png",
 };
 
 export const CONTACT_STUFF = {
@@ -69,12 +73,13 @@ export const MY_PROJECTS_STUFF = {
 export const NAV_STUFF = {
   home: "Home",
   name: "Ylexis Butler",
+  logo: "./img/smiley.png",
 };
 
 export const FOOTER_STUFF = {
   thankYou:
     "I appreciate your time and interest in exploring my work. Have a wonderful day!",
-  hearts: "/img/hearts.gif",
+  hearts: "./img/hearts.gif",
 };
 
 export const PROJECTPAGE_STUFF = {

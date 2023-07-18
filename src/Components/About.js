@@ -10,7 +10,7 @@ const About = () => {
             <div className="about-stuff">
               <span className="heading-sec__main">About Me</span>
               <span>
-                <img src="./img/smiley-logo-2.png" alt="" />
+                <img src={ABOUT_STUFF.logo} alt="" />
               </span>
             </div>
             <span className="heading-sec__sub">
@@ -30,7 +30,7 @@ const About = () => {
                 </p>
               </div>
               <a
-                href="mailto:ylexislauren@gmail.com"
+                href={ABOUT_STUFF.mail}
                 className="btn btn--med btn--theme dynamicBgClr"
               >
                 {CONTACT_STUFF.contact}
@@ -39,7 +39,7 @@ const About = () => {
             <div className="about__content-skills">
               <img
                 className="scribble-circle"
-                src="./img/scribble-circle2.png"
+                src={ABOUT_STUFF.scribble}
                 alt=""
               />
               <h3 className="about__content-title">{ABOUT_STUFF.mySkills}</h3>

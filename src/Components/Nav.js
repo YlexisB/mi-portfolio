@@ -26,7 +26,7 @@ const Nav = () => {
         <div className="header__content">
           <div className="header__logo-container">
             <div className="header__logo-img-cont">
-              <img src="/img/smiley.png" alt="" className="header__logo-img" />
+              <img src={NAV_STUFF.logo} alt="" className="header__logo-img" />
             </div>
             <Link to="/">
               <span className="header__logo-sub">{NAV_STUFF.name}</span>

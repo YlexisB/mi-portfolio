@@ -14,7 +14,7 @@ const Header = () => {
             </p>
           </div>
           <div className="home-hero__cta">
-            <img className="arrow" src="./img/arrow.png" alt="" />
+            <img className="arrow" src={HEADER_STUFF.arrow} alt="" />
             <a href="./#projects" className="btn main-btn">
               {HEADER_STUFF.button_text}
             </a>
