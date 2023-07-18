@@ -425,6 +425,7 @@ textarea {
     position: absolute;
     margin-top: -14em;
     margin-left: -6em;
+    width: 100px;
   }
 }
 .about__content {
