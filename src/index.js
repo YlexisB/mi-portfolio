@@ -3,16 +3,16 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import Home from "./Pages/Home";
 import ProjectsPage from "./Pages/ProjectsPage";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="project/:id" element={<ProjectsPage />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
