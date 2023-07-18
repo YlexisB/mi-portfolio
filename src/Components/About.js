@@ -31,7 +31,7 @@ const About = () => {
               </div>
               <button
                 href={ABOUT_STUFF.mail}
-                className=" btn btn--med btn--theme dynamicBgClr"
+                className="floating btn btn--med btn--theme dynamicBgClr"
               >
                 {CONTACT_STUFF.contact}
               </button>
