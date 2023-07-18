@@ -24,8 +24,8 @@
         {
           "name": "The Commons",
           "short-description": "The Commons, is a platform that invites users to delve into the lives of lesser-known historical figures. Users can immerse themselves in stories through engaging audio narratives, allowing the individuals of the past to personally share their experiences, and users to gain a better undestanding of history.",
-          "live-link": "",
-          "code-link": "",
+          "live-link": "https://ylexisb.github.io/the-commons-app/",
+          "code-link": "https://github.com/YlexisB/the-commons-app",
           "image": "/img/the_commons2.png",
           "the-build": "This website was built using HTML/CSS and React JS with the help of the CRA npm. I created it as a template design to showcase my vision for the final product. Since I couldn't find an API that met my specific needs, I gathered the data from a data.json file that I put together. The text-to-speech feature uses the VoiceRSS API to provide an interactive audio experience.",
           "the-inspiration1": "I'm a huge history buff and I absolutely love learning about people from the past. But you know what? In school, we only scratch the surface and barely touch on the thousands, maybe even millions, of incredible individuals who've made history. That got me thinking and inspired me to create The Commons.",

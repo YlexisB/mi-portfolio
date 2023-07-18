@@ -1,17 +1,12 @@
-import React, { useState } from "react";
-// import { Link } from "react-router-dom";
+import React from "react";
 import { useNavigate } from "react-router-dom";
 import { MY_PROJECTS_STUFF } from "../constants";
 
 const MyProjects = () => {
-  const [selectedProject, setSelectedProject] = useState(false);
-
   const navigate = useNavigate();
 
   const handleClick = (id) => {
-    setSelectedProject(id);
     navigate(`/project/${id}`);
-    setSelectedProject(true);
   };
 
   return (

@@ -30,7 +30,7 @@ const ProjectsPage = () => {
             <div className="project-details__showcase-img-cont">
               <img
                 src={projectData["image"]}
-                alt="image"
+                alt=""
                 className="project-details__showcase-img"
               />
             </div>

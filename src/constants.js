@@ -45,11 +45,10 @@ export const ABOUT_STUFF = {
 
 export const CONTACT_STUFF = {
   contact: "Contact",
-  contact1:
-    "All my projects include links to the code and live version. Click the button to learn more about each one.",
-  contact2: "open position,",
+  contact1: "If you think I'd be a great fit for a ",
+  contact2: "job opportunity,",
   contact3:
-    "or if you have any questions or opportunities for collaboration, please feel free to reach out to me at ylexislauren@gmail.com !",
+    " or if you'd like to collaborate on a freelance project, feel free to reach out to me and send me a message. I'd love to hear from you! ",
 };
 
 export const MY_PROJECTS_STUFF = {
