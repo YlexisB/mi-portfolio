@@ -1,7 +1,8 @@
 import React from "react";
 import { HEADER_STUFF, SOCIAL_STUFF } from "../constants";
+import { Link } from "react-router-dom";
 
-const Header = () => {
+const Header = ({ handleScroll }) => {
   return (
     <div>
       <section className="home-hero">
@@ -15,9 +16,15 @@ const Header = () => {
           </div>
           <div className="home-hero__cta">
             <img className="arrow" src={HEADER_STUFF.arrow} alt="" />
-            <a href="#/#projects" className="btn main-btn">
-              {HEADER_STUFF.button_text}
-            </a>
+            <Link
+              to="/#projects"
+              href="/#projects"
+              onClick={() => handleScroll("projects")}
+            >
+              <button className="btn main-btn">
+                {HEADER_STUFF.button_text}
+              </button>
+            </Link>
           </div>
         </div>
         <div className="home-hero__socials">
