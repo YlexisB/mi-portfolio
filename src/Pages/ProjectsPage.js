@@ -4,6 +4,7 @@ import Nav from "../Components/Nav";
 import projectdata from "../projectData.json";
 import { useParams } from "react-router-dom";
 import { ABOUT_STUFF, PROJECTPAGE_STUFF } from "../constants";
+import { Link } from "react-router-dom";
 
 const ProjectsPage = () => {
   const { id } = useParams();
@@ -96,6 +97,11 @@ const ProjectsPage = () => {
                 </div>
 
                 <img className="xs" src={PROJECTPAGE_STUFF.xImg} alt="" />
+                <Link to="/#projects" href="/#projects">
+                  <button className="btn btn--med btn--theme project-details__links-btn">
+                    See more Projects
+                  </button>
+                </Link>
               </div>
             </div>
           </div>
