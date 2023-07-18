@@ -2,7 +2,7 @@ import React from "react";
 import { HEADER_STUFF, SOCIAL_STUFF } from "../constants";
 import { Link } from "react-router-dom";
 
-const Header = ({ handleScroll }) => {
+const Header = (handleScroll) => {
   return (
     <div>
       <section className="home-hero">
