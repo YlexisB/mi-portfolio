@@ -57,7 +57,11 @@ const ProjectsPage = () => {
                   {PROJECTPAGE_STUFF.project_intro}
                 </h3>
 
-                <img className="scrabble" src="/img/scrabble.png" alt="" />
+                <img
+                  className="scrabble"
+                  src={PROJECTPAGE_STUFF.scrabble}
+                  alt=""
+                />
 
                 <p className="project-details__desc-para">
                   {projectData["the-build"]}
@@ -91,7 +95,7 @@ const ProjectsPage = () => {
                   <div className="skills-skill">{ABOUT_STUFF.skill_git}</div>
                 </div>
 
-                <img className="xs" src="/img/xs.gif" alt="" />
+                <img className="xs" src={PROJECTPAGE_STUFF.xImg} alt="" />
               </div>
             </div>
           </div>

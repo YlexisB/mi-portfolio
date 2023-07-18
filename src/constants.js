@@ -90,4 +90,6 @@ export const PROJECTPAGE_STUFF = {
   design: "What was the design process?",
   learn: "What did I learn?",
   tools: "Tools Used",
+  xImg: "./img/xs.gif",
+  scrabble: "/img/scrabble.png",
 };
