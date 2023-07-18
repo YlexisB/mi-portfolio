@@ -423,9 +423,9 @@ textarea {
 @media only screen and (max-width: 37.5em) {
   .scribble-circle {
     position: absolute;
-    margin-top: 14em;
-    margin-left: 6em;
-    width: 300px;
+    margin-top: 5em;
+    margin-left: 1em;
+    width: 250px;
   }
 }
 .about__content {
