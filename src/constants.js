@@ -91,5 +91,5 @@ export const PROJECTPAGE_STUFF = {
   learn: "What did I learn?",
   tools: "Tools Used",
   xImg: "./img/xs.gif",
-  scrabble: "/img/scrabble.png",
+  scrabble: "./img/scrabble.png",
 };
