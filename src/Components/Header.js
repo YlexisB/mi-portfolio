@@ -2,7 +2,7 @@ import React from "react";
 import { HEADER_STUFF, SOCIAL_STUFF } from "../constants";
 import { Link } from "react-router-dom";
 
-const Header = (handleScroll) => {
+const Header = () => {
   return (
     <div>
       <section className="home-hero">
@@ -16,11 +16,8 @@ const Header = (handleScroll) => {
           </div>
           <div className="home-hero__cta">
             <img className="arrow" src={HEADER_STUFF.arrow} alt="" />
-            <Link
-              to="/#projects"
-              href="/#projects"
-              onClick={() => handleScroll("projects")}
-            >
+
+            <Link to="/#projects" href="/#projects">
               <button className="btn main-btn">
                 {HEADER_STUFF.button_text}
               </button>
