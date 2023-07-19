@@ -278,14 +278,18 @@ textarea {
 }
 @media only screen and(max-width: 371px) {
   .home-hero {
+    height: unset;
+    min-height: unset;
     background-image: url("../public/img/hero300.gif");
     height: 40vh;
   }
-  .home-hero__info .text-primary {
-    display: none;
-  }
+
   .arrow {
     display: none;
+  }
+  .home-hero__info .text-primary {
+    position: relative;
+    font-size: 0em;
   }
 }
 
@@ -363,7 +367,7 @@ textarea {
 @media only screen and (max-width: 600px) {
   .home-hero__content {
     padding: 19rem 0 13rem 0;
-    margin-top: 40em;
+    margin: auto;
     position: static;
     transform: translate(0, 0);
   }
@@ -381,7 +385,7 @@ textarea {
   .home-hero__info .text-primary {
     position: relative;
     top: 4em;
-    font-size: 1.8em;
+    font-size: 1.5em;
   }
 }
 @media only screen and (min-width: 601px) and (max-width: 1500px) {
