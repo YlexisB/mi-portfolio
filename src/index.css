@@ -283,9 +283,9 @@ textarea {
     background-image: url("../public/img/hero300.gif");
     height: 30vh;
   }
-  .home-hero__info .text-primary {
+  /* .home-hero__info .text-primary {
     display: none;
-  }
+  } */
   .arrow {
     display: none;
   }
