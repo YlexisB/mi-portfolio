@@ -276,7 +276,19 @@ textarea {
   max-height: 70rem;
   position: relative;
 }
-@media only screen and (max-width: 37.5em) {
+@media only screen and (min-width: 100px) and (max-width: 449px) {
+  .home-hero {
+    height: unset;
+    min-height: unset;
+    background-image: url("../public/img/hero300.gif");
+    height: 30vh;
+  }
+  .home-hero__info .text-primary {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 450px) and (max-width: 600px) {
   .home-hero {
     height: unset;
     min-height: unset;
