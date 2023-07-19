@@ -276,7 +276,8 @@ textarea {
   max-height: 70rem;
   position: relative;
 }
-@media only screen and(max-width: 371px) {
+
+@media only screen and (max-width: 37.5em) {
   .home-hero {
     height: unset;
     min-height: unset;
@@ -285,19 +286,6 @@ textarea {
   }
   .arrow {
     width: 0;
-  }
-  .home-hero__info .text-primary {
-    position: relative;
-    font-size: 0em;
-  }
-}
-
-@media only screen and (min-width: 23.25em) and (max-width: 37.5em) {
-  .home-hero {
-    height: unset;
-    min-height: unset;
-    background-image: url("../public/img/small-hero.gif");
-    height: 40vh;
   }
 }
 
