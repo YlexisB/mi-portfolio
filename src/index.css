@@ -280,12 +280,11 @@ textarea {
   .home-hero {
     height: unset;
     min-height: unset;
-    background-image: url("../public/img/hero300.gif");
+    background-image: url("../public/img/small-hero.gif");
     height: 40vh;
   }
-
   .arrow {
-    display: none;
+    width: 0;
   }
   .home-hero__info .text-primary {
     position: relative;
