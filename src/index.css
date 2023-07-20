@@ -347,7 +347,7 @@ textarea {
   position: absolute;
   left: 50%;
   transform: translate(-50%, -50%);
-  margin-top: 45em;
+  margin-top: 47em;
   max-width: 90rem;
   width: 92%;
 }
@@ -388,13 +388,13 @@ textarea {
 }
 
 .home-hero__cta {
-  margin-top: 0.5rem;
+  margin-top: 1rem;
   text-align: center;
 }
 
 .main-btn {
   margin-top: 5em;
-  padding: 1.8rem 8rem;
+  padding: 1.9rem 8rem;
   font-size: 2rem;
   background-color: #686668;
   color: white;
