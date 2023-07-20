@@ -11,11 +11,9 @@ const App = () => {
   return (
     <HashRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
-          <Route exact path="/" element={<Home />} />
-          <Route exact path="project/:id" element={<ProjectsPage />} />
-          <Route path="*" element={<NotFound />} />
-        </Route>
+        <Route exact path="/" element={<Home />} />
+        <Route exact path="project/:id" element={<ProjectsPage />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
     </HashRouter>
   );
