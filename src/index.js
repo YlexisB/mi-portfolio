@@ -5,7 +5,6 @@ import Home from "./Pages/Home";
 import ProjectsPage from "./Pages/ProjectsPage";
 import { HashRouter, Routes, Route } from "react-router-dom";
 import NotFound from "./Pages/NotFound";
-import Layout from "./Components/Layout";
 
 const App = () => {
   return (
