@@ -16,7 +16,6 @@ const ProjectsPage = () => {
 
   return (
     <div>
-      <Nav />
       <section className="project-cs-hero">
         <div className="project-cs-hero__content">
           <h1 className="heading-primary">{projectData["name"]}</h1>
@@ -107,7 +106,6 @@ const ProjectsPage = () => {
           </div>
         </div>
       </section>
-      <Footer />
     </div>
   );
 };
