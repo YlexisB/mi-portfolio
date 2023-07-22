@@ -347,7 +347,7 @@ textarea {
   position: absolute;
   left: 50%;
   transform: translate(-50%, -50%);
-  margin-top: 47.5em;
+  margin-top: 47em;
   max-width: 90rem;
   width: 92%;
 }
@@ -357,6 +357,11 @@ textarea {
     margin: auto;
     position: static;
     transform: translate(0, 0);
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1499px) {
+  .home-hero__content {
+    margin-top: 44em;
   }
 }
 .home-hero__info {
@@ -393,7 +398,7 @@ textarea {
 }
 
 .main-btn {
-  margin-top: 6em;
+  margin-top: 4em;
   padding: 1.9rem 8rem;
   font-size: 2rem;
   background-color: #686668;
