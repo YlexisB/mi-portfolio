@@ -428,7 +428,7 @@ textarea {
   margin-top: -12em;
   margin-left: -7em;
 }
-@media only screen and (max-width: 37.5em) {
+@media only screen and (max-width: 56.25em) {
   .scribble-circle {
     position: absolute;
     margin-top: 5em;
