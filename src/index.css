@@ -359,11 +359,7 @@ textarea {
     transform: translate(0, 0);
   }
 }
-@media only screen and (min-width: 1200px) and (max-width: 1499px) {
-  /* .home-hero__content {
-    top: 44em;
-  } */
-}
+
 .home-hero__info {
   margin: 1rem auto 1rem auto;
   max-width: 80rem;
