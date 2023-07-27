@@ -93,7 +93,6 @@ const ProjectsPage = () => {
                   <div className="skills-skill">{ABOUT_STUFF.skill_js}</div>
                   <div className="skills-skill">{ABOUT_STUFF.skill_html}</div>
                   <div className="skills-skill">{ABOUT_STUFF.skill_css}</div>
-                  <div className="skills-skill">{ABOUT_STUFF.skill_git}</div>
                 </div>
 
                 <img className="xs" src={PROJECTPAGE_STUFF.xImg} alt="" />
