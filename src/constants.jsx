@@ -45,6 +45,7 @@ export const ABOUT_STUFF = {
   skill_code: "Visual Studio Code",
   skill_node: "Node",
   skill_api: "Rest APIs",
+  skill_d3: "Data Visualization with D3",
   logo: "./img/smiley-logo-2.png",
   mail: "mailto:ylexislauren@gmail.com",
   scribble: "./img/scribble-circle2.png",
