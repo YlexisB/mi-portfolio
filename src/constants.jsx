@@ -63,15 +63,15 @@ export const MY_PROJECTS_STUFF = {
   project: "Projects",
   projectDescription:
     "All my projects include links to the code and live version. Click the button to learn more about each one.",
-  project1_title: "Snap Still",
+  project1_title: "FemFit Gym",
   project1:
-    "Snap Still is a site, providing filmmakers and creatives alike with a platform to create visually stunning mood boards during the planning phases of their projects. Explore, organize, and bring your creative vision to life all in one place.",
-  project2_title: "The Commons",
+    "FemFit Gym is a fictional gym web application designed to provide an empowering fitness experience tailored to women's health and well-being.",
+  project2_title: "Snap Still",
   project2:
-    "The Commons, is a platform that invites users to delve into the lives of lesser-known historical figures. Users can immerse themselves in stories through engaging audio narratives, allowing the individuals of the past to personally share their experiences, and users to gain a better undestanding of history.",
+    "Snap Still is a site, providing filmmakers and creatives alike with a platform to create visually stunning mood boards during the planning phases of their projects. Explore, organize, and bring your creative vision to life all in one place.",
   learn: "Learn more",
-  project1Pic: "./img/snapstill.png",
-  project2Pic: "./img/the_commons2.png",
+  project1Pic: "./img/femfitprojectSS1.png",
+  project2Pic: "./img/snapstill.png",
 };
 
 export const NAV_STUFF = {
