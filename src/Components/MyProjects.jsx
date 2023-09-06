@@ -40,8 +40,8 @@ const MyProjects = () => {
                   {MY_PROJECTS_STUFF.project1}
                 </p>
                 <button
-                  onClick={() => handleClick("SnapStill")}
-                  to="/project/SnapStill"
+                  onClick={() => handleClick("FemFit")}
+                  to="/project/FemFit"
                   className="floating btn btn--med btn--theme dynamicBgClr"
                 >
                   {MY_PROJECTS_STUFF.learn}
@@ -65,8 +65,8 @@ const MyProjects = () => {
                   {MY_PROJECTS_STUFF.project2}
                 </p>
                 <button
-                  onClick={() => handleClick("TheCommons")}
-                  to="/project/TheCommons"
+                  onClick={() => handleClick("SnapStill")}
+                  to="/project/SnapStill"
                   className="floating btn btn--med btn--theme dynamicBgClr"
                 >
                   {MY_PROJECTS_STUFF.learn}
