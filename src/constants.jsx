@@ -22,11 +22,11 @@ export const SOCIAL_STUFF = {
 export const ABOUT_STUFF = {
   about: "About",
   about_me1:
-    " Hey there! I'm Lex, a passionate web developer with a diverse background that includes athletics and filmmaking. My athletic experiences have shaped me into someone with a strong work ethic, discipline, and a great appreciation for teamwork. I thrive on challenges and I'm always seeking opportunities for growth.",
+    " Hey there! I'm Lex, a passionate web developer with a diverse background that includes graphic design and filmmaking. All of my experiences have shaped me into someone with a strong work ethic, discipline, and a great appreciation for teamwork. I thrive on challenges and I'm always seeking opportunities for growth.",
   about_me2:
-    " Aside from my athletic pursuits, I also ventured into the world of entertainment technology during my high school years. I spent four years studying it, which eventually led me to pursue a degree in filmmaking and graphic design at university. It was during this time that I sharpened my creative skills and  storytelling abilities. However, after graduating it was web development that really caught my attention. I love how it combines creativity and technicality, allowing me to leverage my artistic sensibilities along with the problem-solving skills I gained from athletics.",
+    " With four years of vocational high school and another four years majoring in Film during college, my journey initially revolved around the arts. I also spent four years as a graphic designer for campus associations and a reputable radio station. However, it was web development that truly captured my attention post-graduation. I appreciate how it combines creativity and technicality, allowing me to leverage my artistic sensibilities alongside my problem-solving skills.",
   about_me3:
-    " I specialize in JavaScript and React JS, which gives me a solid foundation for building dynamic and interactive web applications. I thoroughly enjoy working with these technologies as they enable me to bring ideas to life and create seamless user experiences. It's a perfect blend of my artistic side and my knack for problem-solving.Im currently also learning AWS.",
+    " I specialize in JavaScript and React JS, which gives me a solid foundation for building dynamic and interactive web applications. I thoroughly enjoy working with these technologies as they enable me to bring ideas to life and create seamless user experiences.",
   about_me4:
     "I have a background in film production and graphic design, and earned a bachelors degree in Film and Television from Rider University. When I'm not coding, you can find me exploring various avenues of self-improvement, staying active with workouts, embracing the outdoors and/or experimenting with new recipes in the kitchen.",
   about_me5: "Get to know me!",
