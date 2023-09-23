@@ -59,6 +59,7 @@ const About = () => {
                 <div className="skills-skill">{ABOUT_STUFF.skill_node}</div>
                 <div className="skills-skill">{ABOUT_STUFF.skill_api}</div>
                 <div className="skills-skill">{ABOUT_STUFF.skill_d3}</div>
+                <div className="skills-skill">{ABOUT_STUFF.skill_formik}</div>
               </div>
             </div>
           </div>
