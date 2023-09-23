@@ -17,7 +17,7 @@ const Header = () => {
           <div className="home-hero__cta">
             <img className="arrow" src={HEADER_STUFF.arrow} alt="" />
 
-            <Link to="/project/SnapStill">
+            <Link to="/project/Skatefy">
               <button className="btn main-btn">
                 {HEADER_STUFF.button_text}
               </button>
