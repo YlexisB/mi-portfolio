@@ -1,7 +1,25 @@
 {
   "Projects": [
     {
-      "Project1": "FemFit Gym",
+      "Project1": "Skatefy",
+      "data": [
+        {
+          "name": "Skatefy",
+          "short-description": "Skatefy is designed for skateboard enthusiasts of all levels, Skatefy combines stunning visuals, intuitive navigation, and a range of features to make it a go-to destination for everything skateboarding.",
+          "live-link": "https://ylexisb.github.io/Skatefy-App/",
+          "code-link": "https://github.com/YlexisB/Skatefy-App",
+          "image": "./img/skatefySS.png",
+          "the-build": "Skatefy was developed using a dynamic mix of HTML, CSS, JavaScript, and the React.js library. Leveraging the power of these technologies, this immersive web app simulates a skateboarding school experience, offering an array of features, including private lessons, video coaching, and beyond beginner lessons. Skatefy serves as a one-stop destination for skateboarding enthusiasts of all levels. To ensure seamless deployment and continuous integration, GitHub Actions were implemented for CI/CD processes, making the project accessible on GitHub Pages.",
+          "the-inspiration1": "Despite never having set foot on a skateboard myself,  skateboarding culture and the creativity of it has always fascinated me. In creating Skatefy, I wanted to bridge my fascination with  skateboarding and use web development as a way to build a site that offers services in skateboarding lessons. ",
+          "the-inspiration2": "Beyond my personal connection to skateboarding, Skatefy was designed to inspire businesses seeking to elevate their online presence. CSS, React.js, and intuitive design is a great formula to do so. Skatefy showcases how these elements can be used together to create a visually captivating and user-friendly platform. ",
+          "the-design": "Leveraging the awesome tool of Canva Pro, I created and edited all graphic materials, ensuring they seamlessly blended into the site's overall aesthetic. The choice of colors, a vital aspect of any design, was curated within Canva Pro as well. To enhance the site's narrative, I sourced royalty-free and stock images from the Pexels.com and Adobe Stock platforms. Additionally, the project draws inspiration from the exceptional UI/UX design work of Olena Kmetiuk, particularly her Surfing School website. This inspiration fueled a unique challenge to recreate and reimagine a skateboarding school website, resulting in the visually captivating and user-friendly experience that is Skatefy. Your can find Kmetiuk's work here: https://www.behance.net/gallery/176919587/Surfing-school-Website-design",
+          "the-learning": " One of the key discoveries was the use of 'vw' in CSS, a unit that dynamically scales text and elements to ensure responsive design. This newfound understanding allowed me to create text that adapts seamlessly to various screen sizes, enhancing the user experience. Additionally, I delved deeper into CSS Grid, a layout system I had previously explored less frequently, as I typically leaned on Flexbox. This experience broadened my design horizons and empowered me with versatile tools to craft visually appealing and user-friendly layouts. ",
+          "id": "Skatefy"
+        }
+      ]
+    },
+    {
+      "Project2": "FemFit Gym",
       "data": [
         {
           "name": "FemFit Gym",
@@ -11,7 +29,7 @@
           "image": "./img/femfitprojectSS1.png",
           "the-build": "The FemFit Gym website was developed using a modern tech stack that includes HTML, CSS, React, and JavaScript, with the Create React App (CRA) npm package providing the foundation. It features seamless email integration through EmailJS and utilizes the power of React Slick for carousel image automation. This web application is designed to empower women on their fitness journeys by offering personalized training plans, expert guidance, and a supportive community.",
           "the-inspiration1": "The driving purpose behind the creation of the FemFit Gym website was to envision and design a gym that I would personally love to be part of. It was really about crafting the ideal gym experience that centers around members' fitness journeys and overall well-being. I wanted to provide a safe, inclusive space where women of all ages could not only achieve their fitness goals but also enjoy the process without the intimidation that can sometimes be felt in conventional gyms.",
-          "the-inspiration2": "I also wanted to make a gym committed to lead generation – motivating potential members to kickstart their fitness journeys even before setting foot in the facility. Ultimately, this project aims to merge user experience with a strong sense of community, making FemFit Gym more than just a gym; but fictitious fitness family.",
+          "the-inspiration2": "I also wanted to make a gym committed to lead generation – motivating potential members to kickstart their fitness journeys even before setting foot in the facility. Ultimately, this project aims to merge user experience with a strong sense of community, making FemFit Gym more than just a gym; but a fictitious fitness family.",
           "the-design": "The design of the FemFit website was inspired by the talented Jemish Variya's UI/UX design of a gym website. You can find it showcased on Behance.com. I used canva.com to create all the design graphics, and materials. All images and videos are sourced from Pexels.com and AdobeStock.The design prioritizes an intuitive and visually appealing user experience, ensuring that every element, color, and layout choice is carefully crafted to enhance the overall aesthetics and usability of the website. Here is the link behind FemFit’s inspiration:  https://www.behance.net/gallery/175372135/GYM-Website",
           "the-learning": "One of the significant takeaways was the ability to closely align my design sensibilities with those of another website. While I handled the entire process, from crafting graphics to sourcing images, page stylization and writing code, I drew inspiration from a UI/UX design on another platform. This experience allowed me to understand the importance of translating creative visions  into functional web elements. Email integration via emailJS and the  implementation of the React Slick Carousel expanded my toolkit for enhanced user experiences. This project also improved my time management, allowing me to handle multiple aspects concurrently. Additionally, I explored Formik for efficient form creation, adding to my web development skill set and deepening my understanding of tools commonly used within the web dev field.",
           "id": "FemFit"
@@ -19,7 +37,7 @@
       ]
     },
     {
-      "Project2": "Snap Still",
+      "Project3": "Snap Still",
       "data": [
         {
           "name": "Snap Still",

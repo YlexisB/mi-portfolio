@@ -33,15 +33,15 @@ const MyProjects = () => {
                 />
               </div>
               <div className="projects__row-content">
-                <h3 className="projects__row-content-title ">
+                <h3 className="projects__row-content-title">
                   {MY_PROJECTS_STUFF.project1_title}
                 </h3>
                 <p className="projects__row-content-desc">
                   {MY_PROJECTS_STUFF.project1}
                 </p>
                 <button
-                  onClick={() => handleClick("FemFit")}
-                  to="/project/FemFit"
+                  onClick={() => handleClick("Skatefy")}
+                  to="/project/Skatefy"
                   className="floating btn btn--med btn--theme dynamicBgClr"
                 >
                   {MY_PROJECTS_STUFF.learn}
@@ -58,11 +58,37 @@ const MyProjects = () => {
                 />
               </div>
               <div className="projects__row-content">
-                <h3 className="projects__row-content-title">
+                <h3 className="projects__row-content-title ">
                   {MY_PROJECTS_STUFF.project2_title}
                 </h3>
                 <p className="projects__row-content-desc">
                   {MY_PROJECTS_STUFF.project2}
+                </p>
+                <button
+                  onClick={() => handleClick("FemFit")}
+                  to="/project/FemFit"
+                  className="floating btn btn--med btn--theme dynamicBgClr"
+                >
+                  {MY_PROJECTS_STUFF.learn}
+                </button>
+              </div>
+            </div>
+
+            <div className="projects__row">
+              <div className="projects__row-img-cont">
+                <img
+                  src={MY_PROJECTS_STUFF.project3Pic}
+                  alt="Software Screenshot"
+                  className="projects__row-img"
+                  loading="lazy"
+                />
+              </div>
+              <div className="projects__row-content">
+                <h3 className="projects__row-content-title">
+                  {MY_PROJECTS_STUFF.project3_title}
+                </h3>
+                <p className="projects__row-content-desc">
+                  {MY_PROJECTS_STUFF.project3}
                 </p>
                 <button
                   onClick={() => handleClick("SnapStill")}
